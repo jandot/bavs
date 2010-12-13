@@ -1,0 +1,3 @@
+---
+    mongo-host: <MONGO HOSTNAME>
+    mongo-db: <MONGO DATABASE NAME>
